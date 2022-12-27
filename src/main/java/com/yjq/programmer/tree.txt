@@ -1,0 +1,83 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 CC71-FA2E
+D:.
+│  HospitalManageSystem.java
+│  tree.txt
+│  
+├─annotation
+│      ValidateEntity.java
+│      
+├─bean
+│      CodeMsg.java
+│      
+├─config
+│      CorsConfig.java
+│      
+├─controller
+│      AnnounceController.java
+│      AppointController.java
+│      DoctorController.java
+│      OfficeController.java
+│      PhotoController.java
+│      UserController.java
+│      
+├─dao
+│  │  AnnounceMapper.java
+│  │  AppointItemMapper.java
+│  │  AppointMapper.java
+│  │  DoctorMapper.java
+│  │  OfficeMapper.java
+│  │  UserMapper.java
+│  │  
+│  └─my
+│          MyAppointMapper.java
+│          
+├─domain
+│      Announce.java
+│      AnnounceExample.java
+│      Appoint.java
+│      AppointExample.java
+│      AppointItem.java
+│      AppointItemExample.java
+│      Doctor.java
+│      DoctorExample.java
+│      Office.java
+│      OfficeExample.java
+│      User.java
+│      UserExample.java
+│      
+├─dto
+│      AnnounceDTO.java
+│      AppointDTO.java
+│      AppointItemDTO.java
+│      DoctorDTO.java
+│      OfficeDTO.java
+│      PageDTO.java
+│      ResponseDTO.java
+│      UserDTO.java
+│      
+├─enums
+│      AppointStateEnum.java
+│      PositionEnum.java
+│      RoleEnum.java
+│      
+├─service
+│  │  IAnnounceService.java
+│  │  IAppointService.java
+│  │  IDoctorService.java
+│  │  IOfficeService.java
+│  │  IUserService.java
+│  │  
+│  └─impl
+│          AnnounceServiceImpl.java
+│          AppointServiceImpl.java
+│          DoctorServiceImpl.java
+│          OfficeServiceImpl.java
+│          UserServiceImpl.java
+│          
+└─util
+        CommonUtil.java
+        CopyUtil.java
+        UuidUtil.java
+        ValidateEntityUtil.java
+        
