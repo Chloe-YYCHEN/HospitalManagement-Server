@@ -8,12 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-11 18:53
- */
+
 @RestController
 @RequestMapping("/doctor")
 public class DoctorController {

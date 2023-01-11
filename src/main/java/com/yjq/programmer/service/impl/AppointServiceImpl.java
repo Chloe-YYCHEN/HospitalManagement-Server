@@ -24,12 +24,6 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.annotation.Resource;
 import java.util.*;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-12 11:13
- */
 @Service
 @Transactional
 public class AppointServiceImpl implements IAppointService {

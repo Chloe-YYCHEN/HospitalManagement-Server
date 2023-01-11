@@ -22,12 +22,6 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-11 19:38
- */
 @Service
 @Transactional
 public class DoctorServiceImpl implements IDoctorService {

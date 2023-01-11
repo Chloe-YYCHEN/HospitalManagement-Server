@@ -1,11 +1,5 @@
 package com.yjq.programmer.enums;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-12 16:31
- */
 public enum AppointStateEnum {
 
     WAIT(1,"待就诊"),

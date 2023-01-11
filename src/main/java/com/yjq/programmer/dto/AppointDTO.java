@@ -4,12 +4,7 @@ import com.yjq.programmer.annotation.ValidateEntity;
 
 import java.util.Date;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-12 11:11
- */
+
 public class AppointDTO {
 
     private String id;

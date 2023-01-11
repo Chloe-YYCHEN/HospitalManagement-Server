@@ -12,12 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-13 20:22
- */
 @RestController
 @RequestMapping("/announce")
 public class AnnounceController {

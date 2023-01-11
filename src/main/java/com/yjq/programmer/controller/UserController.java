@@ -8,12 +8,6 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-09 15:30
- */
 @RestController
 @RequestMapping("/user")
 public class UserController {

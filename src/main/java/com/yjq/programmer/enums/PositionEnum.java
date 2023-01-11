@@ -1,11 +1,5 @@
 package com.yjq.programmer.enums;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-11 18:07
- */
 public enum PositionEnum {
 
     HOUSE_DOCTOR("1","住院医师"),

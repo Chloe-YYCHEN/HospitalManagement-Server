@@ -6,13 +6,6 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2020-09-19 23:06
- */
-
-/**
  * 实体检验自定义注解类，根据我们自定义的注解去检查实体各个字段是否在规定的值内
  */
 @Target(ElementType.FIELD)

@@ -4,12 +4,6 @@ import com.yjq.programmer.dto.DoctorDTO;
 import com.yjq.programmer.dto.PageDTO;
 import com.yjq.programmer.dto.ResponseDTO;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-11 19:38
- */
 public interface IDoctorService {
 
     // 分页获取医生数据

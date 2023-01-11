@@ -27,13 +27,6 @@ import javax.annotation.Resource;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-09 15:34
- */
-
 @Service
 @Transactional
 public class UserServiceImpl implements IUserService {

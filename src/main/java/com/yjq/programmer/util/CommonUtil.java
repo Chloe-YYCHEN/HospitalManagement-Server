@@ -1,11 +1,5 @@
 package com.yjq.programmer.util;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-04-26 19:09
- */
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

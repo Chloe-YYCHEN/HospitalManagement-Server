@@ -3,13 +3,6 @@ package com.yjq.programmer.dto;
 import com.yjq.programmer.bean.CodeMsg;
 
 /**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2020-09-20 10:34
- */
-
-/**
  * 返回类数据传输对象  作用于service和controller
  * @param <T>
  */

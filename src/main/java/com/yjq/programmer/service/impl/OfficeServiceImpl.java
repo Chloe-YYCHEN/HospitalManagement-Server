@@ -20,12 +20,6 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-11 11:25
- */
 @Service
 @Transactional
 public class OfficeServiceImpl implements IOfficeService {

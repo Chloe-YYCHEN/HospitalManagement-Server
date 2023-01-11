@@ -7,12 +7,6 @@ import com.yjq.programmer.dto.ResponseDTO;
 
 import java.util.List;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-12 11:12
- */
 public interface IAppointService {
 
     // 保存预约挂号信息操作

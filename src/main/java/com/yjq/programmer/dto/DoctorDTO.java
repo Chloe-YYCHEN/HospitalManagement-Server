@@ -2,12 +2,7 @@ package com.yjq.programmer.dto;
 
 import com.yjq.programmer.annotation.ValidateEntity;
 
-/**
- * @author 杨杨吖
- * @QQ 823208782
- * @WX yjqi12345678
- * @create 2021-12-11 19:54
- */
+
 public class DoctorDTO {
 
     private String id;
